@@ -1,0 +1,30 @@
+manifestVersion: 1
+id: agent-zero
+name: Agent Zero
+tagline: Open Source AI that can do Anything
+icon: https://www.agent-zero.ai/res/favicon_round.png
+category: ai
+version: "0.9.8.2"
+port: 32768
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: Agent Zero
+website: https://www.agent-zero.ai
+submitter: tdididit
+submission: 
+repo: 
+support: 
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

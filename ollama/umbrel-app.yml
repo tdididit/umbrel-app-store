@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: tdididit-ollama
+id: ollama
 name: Ollama
 tagline: Self-host open source AI models like DeepSeek-R1, Llama, and more
 category: ai
