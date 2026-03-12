@@ -2,6 +2,7 @@ manifestVersion: 1
 id: tdididit-ollama
 name: Ollama
 tagline: Self-host open source AI models like DeepSeek-R1, Llama, and more
+icon: https://ollama.com/public/ollama.png
 category: ai
 version: "0.17.0"
 port: 11434
