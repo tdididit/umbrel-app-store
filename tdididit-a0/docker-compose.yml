@@ -4,13 +4,10 @@ services:
   app_proxy:
     environment:
       APP_HOST: tdididit-a0_gateway_1
-      APP_PORT: 32768
+      APP_PORT: 80
 
   gateway:
-    image: agent0ai/agent-zero:v0.9.8.2@sha256:6c56558df02618dcd9fc671de0b081ac7c8dc63d955ae5da55be9805b5f5bfa7
-    user: "1000:1000"
-    init: true
+    image: agent0ai/agent-zero:v0.9.8.2
     restart: on-failure
-    stop_grace_period: 1m
     volumes:
       - ${APP_DATA_DIR}/data:/a0/usr
