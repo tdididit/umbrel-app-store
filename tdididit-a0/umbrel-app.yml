@@ -7,13 +7,10 @@ category: ai
 version: "0.9.8.2"
 port: 32768
 description: >-
-  Important
-  ---------
-  
-  Before install, connect SSH to add umbrel user to docker group:
-  sudo usermod -aG docker $USER
-  newgrp docker
+  Add your app's description here.
 
+
+  You can also add newlines!
 
 developer: Agent Zero
 website: https://www.agent-zero.ai
