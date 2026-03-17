@@ -6,6 +6,7 @@ icon: https://www.agent-zero.ai/res/favicon_round.png
 category: ai
 version: "0.9.8.2"
 port: 32768
+path: ""
 description: >-
   Add your app's description here.
 
