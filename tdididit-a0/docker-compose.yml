@@ -8,7 +8,7 @@ services:
       APP_PORT: 50080
 
   gateway:
-    image: agent0ai/agent-zero:v0.9.8.2
+    image: agent0ai/agent-zero:v0.9.8.2@sha256:6c56558df02618dcd9fc671de0b081ac7c8dc63d955ae5da55be9805b5f5bfa7
     user: "1000:1000"
     init: true
     volumes:
